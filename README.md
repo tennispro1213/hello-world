@@ -14,3 +14,5 @@ I'm learning how to use basic github commands. Eventually I plan to contribute t
 I hope I'm able to manage.
 Oh, also, I'm going to try and copy this onto a flashdrive and put it on the raspberry pi to see if it's possible to work on it from there.
 Wish me luck!
+
+Now this is on my account on the Mac.
